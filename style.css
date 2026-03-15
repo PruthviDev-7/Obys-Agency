@@ -31,6 +31,16 @@ html, body {
     height: 100%;
     width: 100%;
 }
+#crsr{
+    height: 2vw;
+    width: 2vw;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    position: fixed;
+    z-index:  999;
+    mix-blend-mode: difference;
+    transform:translate(-50%,-50%);
+}
 #loder{
     position: fixed;
     height: 100%;
@@ -110,8 +120,7 @@ html, body {
     width: 6vw;
     /* background-color: red; */
     text-align: right;
-}
-
+    }
 #main{
     position: relative;
     background-color: #030303;
@@ -121,3 +130,48 @@ html, body {
     width: 100%;
     background-color: #151515;
 }
+#page1 #nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2.3vw 5.5vw;
+}
+#nav-part2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3vw;
+}
+#nav-part2 h4{
+    font-size: 0.8vw;
+    font-weight: 600;
+
+}
+.hero{
+    /* background-color: red; */
+    width: 72%;
+    margin-left: 27%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+.hero:nth-child(2){
+    margin-top: 18vh;
+}
+.hero h1{
+    font-size: 7.2vw;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 7.2vw;
+}
+#hero3 h2 {
+    font-size: 7.2vw;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 7.2vw;
+}
+#hero3 h2:hover{
+    font-weight: 200;
+    -webkit-text-stroke: 1px #fff;
+    color: transparent;
+}   

@@ -32,7 +32,7 @@ function loding() {
     delay: 4,
   });
   tl.from("#page1", {
-    y: 2000,
+    y: 1800,
     opacity: 0,
     delay: 0.2,
     duration: 0.9,

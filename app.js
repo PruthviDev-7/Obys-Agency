@@ -60,4 +60,4 @@ function cursorAnime() {
   Shery.makeMagnet("#nav-part2 h4");
 }
 loding();
-cursorAnime();
+// cursorAnime();

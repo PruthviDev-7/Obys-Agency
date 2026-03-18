@@ -1,84 +1,55 @@
-🌐 Obys Agency Website
+# 🌐 Obys Agency Website
 
 A modern and visually engaging agency-style website built using HTML, CSS, and JavaScript. This project focuses on smooth animations, interactive UI, and responsive design to deliver an enhanced user experience.
 
 ---
 
-🚀 Features
+## 🚀 Features
 
-- 🎨 Modern UI/UX design
-- ⚡ Smooth scrolling using Locomotive Scroll
-- 🎬 Advanced animations with GSAP
-- 📱 Fully responsive layout
-- 🖼️ Interactive sections and transitions
-- 💡 Clean and structured code
-
----
-
-🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- GSAP (GreenSock Animation Platform)
-- Locomotive Scroll
+- 🎨 Modern UI/UX design  
+- ⚡ Smooth scrolling using Locomotive Scroll  
+- 🎬 Advanced animations with GSAP  
+- 📱 Fully responsive layout  
+- 🖼️ Interactive sections and transitions  
+- 💡 Clean and structured code  
 
 ---
 
-📂 Project Structure
+## 🛠️ Tech Stack
 
-Obys-Agency/
-│── Obys/
-│── assets/
-│── fonts/
-│── index.html
-│── style.css
-│── app.js
-│── README.md
+- HTML5  
+- CSS3  
+- JavaScript  
+- GSAP (GreenSock Animation Platform)  
+- Locomotive Scroll  
 
 ---
 
-⚙️ How to Run
+## 📂 Project Structure 
+Obys-Agency/ │── Obys/ │── assets/ │── fonts/ │── index.html │── style.css │── app.js │── README.md
+---
+
+## ⚙️ How to Run
 
 1. Clone the repository:
-   
+   ```bash
    git clone https://github.com/PruthviDev-7/Obys-Agency.git
-
-2. Open the project folder:
-   
+2.Open the project folder:
    cd Obys-Agency
-
-3. Run the project:
-   
-   - Open "index.html" in your browser
-
----
-
-📸 Screenshots
-
-Add screenshots of your project here
-
----
-
+3.Run the project:
+Open index.html in your browser
 🔗 Live Demo
-
 Add your deployed link here (Netlify / Vercel / GitHub Pages)
-
----
-
-📌 Future Improvements
-
-- Add backend integration
-- Improve performance optimization
-- Add more interactive sections
-
----
-
+Future Improvements
+Add backend integration
+Improve performance optimization
+Add more interactive sections
 👨‍💻 Author
-
 Pruthviraj Desai
-GitHub: https://github.com/PruthviDev-7
-
+GitHub: https://github.com/PruthviDev-7⁠�
+⭐ If you like this project, feel free to give it a star!
 ---
 
-⭐ If you like this project, feel free to give it a star!
+If you want, next I can:
+- Make this **README look premium (badges, gifs, preview images)** 🔥  
+- Or help you **deploy + add live link (very important for resume)** 🚀

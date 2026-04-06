@@ -59,7 +59,11 @@ Final_Project/
 
 ## 🎬 Video Preview
 
-[Add your project demo video here]
+
+https://github.com/user-attachments/assets/c965c2f1-8809-4453-b1af-074e5d9b4dfe
+
+
+
 
 ```html
 <video width="100%" controls poster="thumbnail.jpg">
@@ -68,13 +72,7 @@ Final_Project/
 </video>
 ```
 
----
-
-## 📸 Screenshots
-
-[Add project screenshots here]
-
----
+-
 
 ## 📝 License
 
